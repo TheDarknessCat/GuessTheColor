@@ -1,2 +1,2 @@
 # GuessTheColor
-Just Normal Colour Guessing Game
+A color guessing game is a type of game where players have to guess the correct color based on a set of clues or hints. In some versions of the game, players may be given a set of color swatches to choose from, while in others they may have to enter the name of the color they think is correct. The game may also involve displaying a color on the screen and asking players to identify the color by name. The goal of the game is usually to guess the correct color as quickly as possible, and players may be given points or a time bonus for each correct answer. Color guessing games can be a fun and educational way to improve color recognition skills and learn about different shades and hues.
